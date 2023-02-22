@@ -2,4 +2,8 @@
 * Your CSS here
 body {background-color: #E8E2CC;}
 **/
-body {background-color: #c5bb94;}
+body {background-color: #e7d2c1;}
+p {
+    font-family: 'Mulish', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+}
